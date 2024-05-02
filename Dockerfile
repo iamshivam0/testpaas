@@ -10,4 +10,4 @@ copy . .
 
 expose 3000 
 
-cmd ["node","server.js"]
+cmd ["node","index.js"]
